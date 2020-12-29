@@ -1,0 +1,8 @@
+{
+  "name": "YellowtestBLE",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
